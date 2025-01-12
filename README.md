@@ -74,11 +74,6 @@ W razie potrzeby zwiększono limit zapytań dla celów testowych.
 Wnioski
 Aplikacja Digital Signature skutecznie pokazuje praktyczne zastosowanie kryptografii oraz wdrożenie mechanizmów bezpieczeństwa. W trakcie realizacji projektu udało się nie tylko osiągnąć wyznaczone cele, ale również zidentyfikować potencjalne trudności i znaleźć rozwiązania tych problemów.
 
-Projekt jest gotowy do dalszego rozwijania, na przykład poprzez:
-
-Dodanie obsługi większej liczby algorytmów kryptograficznych (np. AES, SHA-256).
-Rozbudowanie mechanizmów bezpieczeństwa o bardziej zaawansowane systemy detekcji ataków.
-
 # Wnioski
 Aplikacja Digital Signature skutecznie pokazuje praktyczne zastosowanie kryptografii oraz wdrożenie mechanizmów bezpieczeństwa. W trakcie realizacji projektu udało się nie tylko osiągnąć wyznaczone cele, ale również zidentyfikować potencjalne trudności i znaleźć rozwiązania tych problemów.
 
