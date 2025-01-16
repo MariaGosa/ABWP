@@ -33,7 +33,6 @@ W aplikacji zaimplementowano testy jednostkowe dla kluczowych komponentów, w ty
 2. Podpisywania i weryfikacji wiadomości.
 3. Sprawdzania działania mechanizmu ograniczania liczby żądań.
 4. Instalacja i uruchomienie
-5. Aby uruchomić aplikację, należy wykonać poniższe kroki:
 
 # Przygotowanie środowiska
 Upewnij się, że masz zainstalowane następujące oprogramowanie:
